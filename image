@@ -1,0 +1,19 @@
+<html>
+
+<link rel="icon" type="image"href="pngwing.png">
+<head>
+  <title>Welcome on Web</title>
+</head>
+<font face ="Bookman old style"size="25"><b><i><u><center><h1>OTHER CAR IMAGES</h1></center></u></i></b><font>
+
+
+
+<body>
+<img src="c:\Users\LENOVO\Pictures/oldcar1.jpg" width="900"></img>
+<img src="C:\Users\LENOVO\Pictures/oldcar2.jpg" width="950"></img>
+<img src="C:\Users\LENOVO\Pictures/oldcar3.jpg" width="950"></img>
+<img src="C:\Users\LENOVO\Pictures/oldcar4.jpg" width="850"></img>
+<img src="C:\Users\LENOVO\Pictures/oldcar5.jpg" width="1150"></img>
+
+</body>
+</html
