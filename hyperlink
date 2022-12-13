@@ -1,0 +1,29 @@
+<html>
+
+<body bgcolor="skyblue">
+
+<link rel="icon" type="image"href="pngwing.png">
+<head>
+  <title>Welcome to webpage</title>
+<meta name = "keywords" content = "Learn HTML "/>
+<meta name = "description" content = "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. "/>
+<meta name = "revised" content = "Lern HTML, 16/11/2022 "/>
+<meta http-equiv = "refresh" content = "3"/>
+<base href=""image\"></base>
+
+</head>
+<font face ="Bookman old style"size="25"><b><i><u><center><h1>CAR IMAGES</h1></center></u></i></b><font>
+
+<body>
+
+<img src="newcar1.jpg" width="900"></img>
+<img src="C:\Users\LENOVO\Pictures/car2.jpg" width="250"></img>
+<img src="C:\Users\LENOVO\Pictures/car3.jpg" width="250"></img>
+<img src="C:\Users\LENOVO\Pictures/car4.jpg" width="280"></img>
+<img src="C:\Users\LENOVO\Pictures/car5.jpg" width="350"></img>
+
+<h2><a href="new2.html">"OTHER CARS"</h2>
+<p><a href="new3.html">"This is a paragraph."</p>
+
+</body>
+</html>
